@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @hyuckkim
-- 👀 I’m interested in Elixir.
-- 🌱 I’m currently learning highschool math.
-- 💞️ I’m looking to collaborate.
 - 📫 How to reach me 
   - email : monkeyhyuck@naver.com
   - tistory : https://hyuckkim.tistory.com
